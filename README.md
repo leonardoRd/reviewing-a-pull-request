@@ -9,6 +9,8 @@ To play the game:
 1. Click **Save**.
 1. Navigate to the URL provided in the same section.
 
+
+cambios
 ### Instructions for playing the game
 
 1. Press the space bar to begin.
