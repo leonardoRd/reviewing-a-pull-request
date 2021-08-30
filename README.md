@@ -1,5 +1,5 @@
 ## Welcome to awesome game of Tetris
-
+Modificando el README
 A project based learning activity for people who are getting started with Git and GitHub.
 otro cambio
 To play the game:
