@@ -1,6 +1,5 @@
 ## Welcome to awesome game of Tetris
 A project based learning activity for people who are getting started with Git and GitHub.
-otro cambio
 To play the game:
 1. Go to the **Settings** tab of this repository.
 1. Scroll down to the section titled _GitHub Pages_
@@ -14,10 +13,9 @@ To play the game:
 1. Press the space bar to begin.
 2. Use the up and down arrow keys to rotate the shape.
 3. Use the left and right arrow keys to position the shape.
-4. asdasd
-5. The goal is to create complete rows with no empty spaces.
-6. When completed, the rows will disappear.
-7. To pause the game, just press the space bar again.
+4. The goal is to create complete rows with no empty spaces.
+5. When completed, the rows will disappear.
+6. To pause the game, just press the space bar again.
 
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
